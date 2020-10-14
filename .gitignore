@@ -1,2 +1,5 @@
 node_modules
 tmp*
+nico.pem
+nico.ppk
+package-lock.json
